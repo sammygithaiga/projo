@@ -12,7 +12,7 @@ Installation Requirements
 Git
 Live Link
 
-https://sammygithaiga.github.io/phase-1-project/
+https://sammygithaiga.github.io/projo/
 Technologies used
 
 HTML CSS Github Javascript Bootstrap
